@@ -1,3 +1,3 @@
-Application1 = 1
+Application1 = 3
 
-Application2 = 1
+Application2 = 5
