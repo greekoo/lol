@@ -1,6 +1,4 @@
-lol
-Application1 = 3
+Application1 = 1
 
-Application2 = 5
+Application2 = 0
 
-xaxaxaxa
