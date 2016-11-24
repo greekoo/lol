@@ -1,4 +1,4 @@
-Application1 = 0
+Application1 = 1
 
 Application2 = 1
 
